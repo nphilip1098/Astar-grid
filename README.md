@@ -1,5 +1,8 @@
 # Astar-grid
 
+Motion Planning Algorithms can be broadly categorised into (a) Graph based Planning (b) Sampling based Planning. Through this project I've attempted to discretize a 
+map by cell decomposition( Graph based planning) and navigate through this map using A* Search Algorithm.
+
 Given a grid(picture) of a environment, a  starting point and an ending point, this application calculates the shortest path using A* Algorithm.
  
 (i)The grid can be sketched using any tool.(Ive used MS Paint to sketch the grid here)
