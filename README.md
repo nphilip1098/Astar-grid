@@ -11,5 +11,11 @@ Given a grid(picture) of a environment, a  starting point and an ending point, t
 <p align="center">
   <img src="https://github.com/nphilip1098/Astar-grid/blob/master/results/grid.jpeg" />
 </p>
-![Astar-grid1](https://github.com/nphilip1098/Astar-grid/blob/master/results/Figure_2.png)
-![Astar-grid2](https://github.com/nphilip1098/Astar-grid/blob/master/results/Figure_3.png)
+
+<p align="center">
+  <img src="https://github.com/nphilip1098/Astar-grid/blob/master/results/Figure_2.png" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/nphilip1098/Astar-grid/blob/master/results/Figure_3.png" />
+</p>
